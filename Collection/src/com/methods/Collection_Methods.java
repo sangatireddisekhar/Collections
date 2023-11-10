@@ -9,6 +9,7 @@ import java.util.LinkedList;
 public class Collection_Methods {
 
 	public static void main(String[] args) {
+		System.out.println("main");
 		//isEmpty();
 		//size();
 		//add();//addAll();
